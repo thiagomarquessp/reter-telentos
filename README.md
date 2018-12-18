@@ -62,10 +62,12 @@ Os grandes problemas que eu identifiquei nas empresas por onde passei cujo turno
 
 - Informações desencontradas
   Recentemente tive uma reunião onde nos foi falado (para a equipe toda) que um novo CTO Global havia comentado que a área de QA não seria uma ***mais valia*** (meu líder direto que passou a mensagem), que no fim das contas, em princípio, não era nada disso, ou seja, é munição para o desânimo, e com isso, de 5 QAs, 2 pediram demissão, e colocando na fórmula de turnover para QA, se deu em: 
+
+```shell
     turnover-qa = (NDA/NTF)*100
     turnover-qa = (2/5)*100
     turnover-qa = 40%
-  
+```
   Considerando dados de pelo menos 8 meses trabalhando "juntos" (Janeiro - Agosto).
 
 - Falta de empatia

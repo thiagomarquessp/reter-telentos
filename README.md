@@ -52,20 +52,21 @@ Os grandes problemas que eu identifiquei nas empresas por onde passei cujo turno
 
 - ***Ausência ou inexistência de liderança***
  
- Aquelas empresas cujo a rotatividade era justamente nos cargos de liderança, seja por questões políticas ou estratégicas da empresa, logo em um período de 1 ano, ter três CTOs por exemplo, é algo que desanima qualquer um.
-  Líderes que apenas **estão** líderes e não são líderes de verdade, é o caso de estar líder por ser o funcionário mais antigo do departamento e não o mais preparado.
+Aquelas empresas cujo a rotatividade era justamente nos cargos de liderança, seja por questões políticas ou estratégicas da empresa, logo em um período de 1 ano, ter três CTOs por exemplo, é algo que desanima qualquer um.
+
+Líderes que apenas **estão** líderes e não são líderes de verdade, é o caso de estar líder por ser o funcionário mais antigo do departamento e não o mais preparado.
 
 - ***Falta de 1 on 1 meeting***
  
- Se estamos em uma empresa sem saber o que de fato é esperado de ti, tanto na via profissional, como na pessoal pode ser um indicativo, principalmente em empresas oriundas de ideais do Vale do Silício;
+Se estamos em uma empresa sem saber o que de fato é esperado de ti, tanto na via profissional, como na pessoal pode ser um indicativo, principalmente em empresas oriundas de ideais do Vale do Silício;
 
 - ***Falta de transparência***
   
-  Uma empresa que não é transparente passa a sensação de que ou tudo vai bem ou tudo vai mal e essa interpretação é dada de acordo com o humor do profissional, ou seja, se estou bem, a falta de transparência pode me levar a achar que ta tudo bem, ou se eu acordo mal, posso achar tudo mal.
+Uma empresa que não é transparente passa a sensação de que ou tudo vai bem ou tudo vai mal e essa interpretação é dada de acordo com o humor do profissional, ou seja, se estou bem, a falta de transparência pode me levar a achar que ta tudo bem, ou se eu acordo mal, posso achar tudo mal.
 
 - ***Informações desencontradas***
  
- Recentemente tive uma reunião onde nos foi falado (para a equipe toda) que um novo CTO Global havia comentado que a área de QA não seria uma ***mais valia*** (meu líder direto que passou a mensagem), que no fim das contas, em princípio, não era nada disso, ou seja, é munição para o desânimo, e com isso, de 5 QAs, 2 pediram demissão, e colocando na fórmula de turnover para QA, se deu em: 
+Recentemente tive uma reunião onde nos foi falado (para a equipe toda) que um novo CTO Global havia comentado que a área de QA não seria uma ***mais valia*** (meu líder direto que passou a mensagem), que no fim das contas, em princípio, não era nada disso, ou seja, é munição para o desânimo, e com isso, de 5 QAs, 2 pediram demissão, e colocando na fórmula de turnover para QA, se deu em: 
 
 ```shell
     turnover-qa = (NDA/NTF)*100
@@ -76,9 +77,9 @@ Os grandes problemas que eu identifiquei nas empresas por onde passei cujo turno
 
 - ***Falta de empatia***
   
-  Normalmente o ser humano é movido a empatia, e normalmente quando se entra em uma nova empresa, as soft skill devem ser trabalhadas a 100% do tempo, então quando não temos empatia com algum integrante da equipe, seja líder ou não, a tendência é que o clima passe a ficar esquisito e isso contribui para o crescimento do turnover.
+Normalmente o ser humano é movido a empatia, e normalmente quando se entra em uma nova empresa, as soft skill devem ser trabalhadas a 100% do tempo, então quando não temos empatia com algum integrante da equipe, seja líder ou não, a tendência é que o clima passe a ficar esquisito e isso contribui para o crescimento do turnover.
 
 - ***Hipocrisia***
   
-  Também é algo que acontece, mais difícil é verdade, pois não é normal uma empresa pisar e passar por cima dos próprios valores, mas quando acontece é muito ruim de manter a motivação, por exemplo, imagina uma empresa que tem um dos valores que cada um pode e é responsável pelo produto, e quando vc tem idéias, são descartadas antes mesmo de serem escutadas (não to dizendo que isso é uma história real). 
+Também é algo que acontece, mais difícil é verdade, pois não é normal uma empresa pisar e passar por cima dos próprios valores, mas quando acontece é muito ruim de manter a motivação, por exemplo, imagina uma empresa que tem um dos valores que cada um pode e é responsável pelo produto, e quando vc tem idéias, são descartadas antes mesmo de serem escutadas (não to dizendo que isso é uma história real). 
 

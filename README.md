@@ -79,6 +79,10 @@ Recentemente tive uma reunião onde nos foi falado (para a equipe toda) que um n
   
 Normalmente o ser humano é movido a empatia, e normalmente quando se entra em uma nova empresa, as soft skill devem ser trabalhadas a 100% do tempo, então quando não temos empatia com algum integrante da equipe, seja líder ou não, a tendência é que o clima passe a ficar esquisito e isso contribui para o crescimento do turnover.
 
+- ***Salários **não justificados*****
+
+Apesar de achar que salário seja algo que cada um tem que ver o seu real valor, algumas injustiças geralmente são cometidas, principalmente em momentos de desespero do time, onde vão ao mercado trazer uma grande estrela, pagando muito e esquecem de verificar se a pessoa se encaixa nos valores da empresa e do time em questão.
+
 - ***Hipocrisia***
   
 Também é algo que acontece, mais difícil é verdade, pois não é normal uma empresa pisar e passar por cima dos próprios valores, mas quando acontece é muito ruim de manter a motivação, por exemplo, imagina uma empresa que tem um dos valores que cada um pode e é responsável pelo produto, e quando vc tem idéias, são descartadas antes mesmo de serem escutadas (não to dizendo que isso é uma história real). 

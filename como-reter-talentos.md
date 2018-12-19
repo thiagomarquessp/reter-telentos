@@ -13,6 +13,7 @@ Bem, geralmente quando as coisas começam a ir para o caminho do pedido de demis
 Alguns sinais são bem claros quando alguém está próximo de pedir demissão, como por exemplo desânimo em qualquer tipo de abordagem, ou seja, o bom dia não vem com aquela energia positiva como de costume, ou diálogos do tipo: 
 
 Pessoa 1: - Olá fulano, bom dia, tudo bem? 
+
 Pessoa 2: - Olá, tudo indo.
 
 Aprendi com uma grande líder e também amiga pessoal que **Tudo indo** não vai a lugar algum, inclusive o **tudo indo** passa a ser resposta para quase tudo, porém esse é um sinal que pouco damos importância, por achar que a pessoa está apenas tendo um mau dia, e realmente pode ser apenas um mau dia, mas uma pessoa geralmente não tem um mau dia **TODO** dia.

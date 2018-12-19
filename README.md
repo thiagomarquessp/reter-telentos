@@ -83,6 +83,10 @@ Normalmente o ser humano é movido a empatia, e normalmente quando se entra em u
 
 Apesar de achar que salário seja algo que cada um tem que ver o seu real valor, algumas injustiças geralmente são cometidas, principalmente em momentos de desespero do time, onde vão ao mercado trazer uma grande estrela, pagando muito e esquecem de verificar se a pessoa se encaixa nos valores da empresa e do time em questão.
 
+- ***Desvalorização***
+
+A frase **"Algumas pessoas são mais iguais que outras."** faz todo o sentido, porque em algum momento passamos por isso, então quando temos um processo de desvalorização avançada de uma pessoa e uma supervalorização de outra nos faz ficar muito chateados. Temos que pensar que todos somos iguais, realizamos o mesmo trabalho, temos o mesmo empenho, então devemos ter valorizações, cada uma a sua maneira, seja financeira ou intelectual.
+
 - ***Hipocrisia***
   
 Também é algo que acontece, mais difícil é verdade, pois não é normal uma empresa pisar e passar por cima dos próprios valores, mas quando acontece é muito ruim de manter a motivação, por exemplo, imagina uma empresa que tem um dos valores que cada um pode e é responsável pelo produto, e quando vc tem idéias, são descartadas antes mesmo de serem escutadas (não to dizendo que isso é uma história real). 

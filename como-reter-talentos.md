@@ -1,6 +1,6 @@
 # Como reter nossos talentos
 
-Bem, agora que sabemos do que se trata o turnover, temos que começar a colher esse tipo de informação com o depatarmento (odeio esse termo) de Recursos Humanos (também odeio), ou como eu gosto de dizer, com o time de Pessoas =).
+Bem, agora que sabemos do que se trata o turnover, temos que começar a colher esse tipo de informação com o departamento (odeio esse termo) de Recursos Humanos (também odeio), ou como eu gosto de dizer, com o time de Pessoas =).
 
 Eu parto do princípio que essa informação deveria ser de acesso a todos que pedirem, porque eu, como funcionário, também posso contribuir direta ou indiretamente com a redução do turnover, pois posso observar alguns pontos e de repente ser mais ativo com meus amiguinhos, posso observar aqueles que estão mais cabisbaixos que o normal e tomar um café juntos e tentar suprir algumas das ausências listadas anteriormente, ou de repente eu enxergue algo que meu líder não tenha feito de forma correta e tento ajudar, ou seja, acredito que por um ecossistema saudável na empresa, todos devem se ajudar de forma mútua.
 

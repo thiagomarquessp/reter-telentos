@@ -56,13 +56,15 @@ Aquelas empresas cujo a rotatividade era justamente nos cargos de liderança, se
 
 Líderes que apenas **estão** líderes e não são líderes de verdade, é o caso de estar líder por ser o funcionário mais antigo do departamento e não o mais preparado.
 
+A ausência no dia a dia das equipes culmina num estado "vegetativo" de qualquer área de engenharia, pois o acompanhamento para que possamos ter melhora contínua fica apenas restrito a avaliações exporádicas (semestrais por exemplo), ou aquelas reuniões anuais de feedback (que no final não acrescenta em nada, dado que a pessoa nunca esteve presente).
+
 - ***Falta de 1 on 1 meeting***
  
-Se estamos em uma empresa sem saber o que de fato é esperado de ti, tanto na via profissional, como na pessoal pode ser um indicativo, principalmente em empresas oriundas de ideais do Vale do Silício;
+A falta de 1 x 1 corrobora muito com o item anterior, cujo a ausência faz com que caiamos no estado vegetativo e o ponto preocupante da ausência do 1 x 1 é que podemos deixa um talento se definhar por acharmos que as pessoas devem ser o tempo todo auto-suficientes.
 
 - ***Falta de transparência***
   
-Uma empresa que não é transparente passa a sensação de que ou tudo vai bem ou tudo vai mal e essa interpretação é dada de acordo com o humor do profissional, ou seja, se estou bem, a falta de transparência pode me levar a achar que ta tudo bem, ou se eu acordo mal, posso achar tudo mal.
+Uma empresa que não é transparente passa a sensação de que ou tudo vai bem ou tudo vai mal e essa interpretação é dada de acordo com o humor do profissional, ou seja, se estou bem, a falta de transparência pode me levar a achar que ta tudo bem, ou se eu acordo mal, posso achar tudo mal. A falta de transparência nos faz perder a confiança na nossa liderança, porque qualquer questão vem seguida de um grande "não sei!" e se você líder quer desconstruir a confiança das equipes, coloque o termo "não sei" em cada questão.
 
 - ***Informações desencontradas***
  
@@ -85,10 +87,12 @@ Apesar de achar que salário seja algo que cada um tem que ver o seu real valor,
 
 - ***Desvalorização***
 
-A frase **"Algumas pessoas são mais iguais que outras."** faz todo o sentido, porque em algum momento passamos por isso, então quando temos um processo de desvalorização avançada de uma pessoa e uma supervalorização de outra nos faz ficar muito chateados. Temos que pensar que todos somos iguais, realizamos o mesmo trabalho, temos o mesmo empenho, então devemos ter valorizações, cada uma a sua maneira, seja financeira ou intelectual.
+Já dizia **George Orwell** em ***Animals Farm***,  **"Alguns animais são mais importantes que outros."** faz todo o sentido, porque em algum momento passamos por isso, então quando temos um processo de desvalorização avançada de uma pessoa e uma supervalorização de outra nos faz ficar muito chateados. Temos que pensar que todos somos iguais, realizamos o mesmo trabalho, temos o mesmo empenho, então devemos ter valorizações, cada uma a sua maneira, seja financeira ou **intelectual**.
 
 - ***Hipocrisia***
   
 Também é algo que acontece, mais difícil é verdade, pois não é normal uma empresa pisar e passar por cima dos próprios valores, mas quando acontece é muito ruim de manter a motivação, por exemplo, imagina uma empresa que tem um dos valores que cada um pode e é responsável pelo produto, e quando vc tem idéias, são descartadas antes mesmo de serem escutadas (não to dizendo que isso é uma história real). 
 
-Agora que entendemos um pouco sobre turnover, e vamos deixar claro que isso aqui não é a verdade absoluta e que cada contexto é um contexto, podemos passar para tentar entendeer como nós, como empresa e líderes, possamos manter o entusiasmo dos nossos funcionários no [próximo tópico - como reter nossos talentos](https://github.com/thiagomarquessp/reter-telentos-e-preciso/blob/master/como-reter-talentos.md)
+Agora que entendemos um pouco sobre turnover, e vamos deixar claro que isso aqui não é a verdade absoluta e que cada contexto é um contexto, podemos passar para tentar entendeer como nós, como empresa e líderes, possamos manter o entusiasmo dos nossos funcionários no [próximo tópico - como reter nossos talentos](https://github.com/thiagomarquessp/reter-telentos-e-preciso/blob/master/como-reter-talentos.md).
+
+Vou deixar aqui também um tópico novo chamado [Demissões](), mas não se assustem, por mais que estamos falando em retenção, achei que seria interessante esse tópico, dado que no ápice de não conseguirmos reter algum talento, ou quando precisamos desligar uma pessoa, que possamos fazer desse "processo" o mais humano possível e infelizmente eu tenho vivido isso e tem sido a parte mais complicada de se fazer, seja por conta de um passado que estamos asumindo ou seja pelo fato que infelizmente foram esgotadas todas as tentativas de melhorar essa pessoa. 

@@ -36,3 +36,7 @@ Essa talvez seja a parte mais desafiadora, que é quando o indivíduo tem que cu
 
 Manter um processo de desligamento humanizado pode deixar as coisas mais leves para todos os lados.
 
+Quando assumir o papel de líder, faça a leitura correta do seu liderado, ou seja, se for um mau carater, não adianta, fica até difícil manter um processo humanizado, e o que eu posso deixar de dica é que nesse caso, tente não deixar que cumpra-se o aviso, porque corremos o risco de haver contaminação generalizada..
+
+[Início](https://github.com/thiagomarquessp/reter-telentos-e-preciso/blob/master/README.md)
+

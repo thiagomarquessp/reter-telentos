@@ -2,7 +2,7 @@
 
 Parece contraditório colocar o tópico de **demissões** justamente em um material dedicado a retenção das pessoas, porém o exercício que eu vou propor aqui passa por olharmos para as demissões, nos casos em que todos os itens listados sobre como não conseguir reter o talento culmina num desligamento, pois acreditem ou não, é o mais comum de se acontecer, ou seja, falta de transparência e uma gestão ausente culmina numa baixa de desempenho e por conta dos números abaixo, vem a tona o desligamento. 
 
-## Mas e quando vocÊ assume um legado / herança de outros maus líderes
+## Mas, e quando você assume um legado / herança de outros maus líderes?
 
 Isso também acontece, imagine que você chega na empresa com algum cargo de liderança, e começa a acompanhar o dia a dia das pessoas, porém, algumas estão exatamente no limbo, com a auto estima baixa, baixa produção, uma série de críticas sobre o desempenho vinda dos colegas, o que fazer? 
 

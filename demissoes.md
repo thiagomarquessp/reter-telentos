@@ -16,7 +16,7 @@ Por ter feito essa leitura, pedi para que não mandassem o amiguinho embora porq
 
 ## Processo Humanizado de Desligamento
 
-Se você se encontra no mesmo cenário que descrevi acima, coloque na cabeça o seguinte "Herdei essa herança maldita e vou arcar por uma falta de gestão e que dado isso, e vou fazer ao menos esse processo o mais humano possível. 
+Se você se encontra no mesmo cenário que descrevi acima, coloque na cabeça o seguinte: "Herdei esse contexto e vou assumir as doree por uma falta de gestão e que dado isso, e vou fazer ao menos esse processo de desligamento o mais humano possível. 
 
 É bem simples criar um ambiente humanizado de desligamento: 
 

@@ -6,7 +6,7 @@ Parece contraditório colocar o tópico de **demissões** justamente em um mater
 
 Isso também acontece, imagine que você chega na empresa com algum cargo de liderança, e começa a acompanhar o dia a dia das pessoas, porém, algumas estão exatamente no limbo, com a auto estima baixa, baixa produção, uma série de críticas sobre o desempenho vinda dos colegas, o que fazer? 
 
-Bem, **1 x 1** para início é bem vindo, para que você possa fazer uma leitura das pessoas, entendr os anseios, assim como os pontos fortes e pontos a melhoras, porém, por mais que você acabe de chegar, pode haver pessoas que vão te levar problemas causados pela "má produção" do amiguinho.
+Bem, **1 x 1** para início é bem vindo, para que você possa fazer uma leitura das pessoas, entendr os anseios, assim como os pontos fortes e pontos a melhorar, porém, por mais que você acabe de chegar, pode haver pessoas que vão te levar problemas causados pela "má produção" do amiguinho.
 
 Vou contar uma história real ... 
 

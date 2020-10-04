@@ -6,13 +6,13 @@ Parece contraditório colocar o tópico de **demissões** justamente em um mater
 
 Isso também acontece, imagine que você chega na empresa com algum cargo de liderança, e começa a acompanhar o dia a dia das pessoas, porém, algumas estão exatamente no limbo, com a auto estima baixa, baixa produção, uma série de críticas sobre o desempenho vinda dos colegas, o que fazer? 
 
-Bem, **1 x 1** para início é bem vindo, para que você possa fazer uma leitura das pessoas, entendr os anseios, assim como os pontos fortes e pontos a melhorar, porém, por mais que você acabe de chegar, pode haver pessoas que vão te levar problemas causados pela "má produção" do amiguinho.
+Bem, **1 x 1** para início é bem vindo, para que você possa fazer uma leitura das pessoas, entender  os anseios, assim como os pontos fortes e pontos a melhorar, porém, por mais que você acabe de chegar, pode haver pessoas que vão te levar problemas causados pela "má produção" do amiguinho.
 
 Vou contar uma história real ... 
 
-Eu estive nessa posição, e após a leitura, barrei a demissão porque entendia que até aquele momento que eu entrei, a empresa não tinha uma gestão que acompanhava diariamente as pessoas a nível individual, o que n\ao daria o conceito de melhora contínua, e precisamos entender que temos pessoas lideradas que são movidas através do acompanhamento de perto, da pressão pela melhora contínua, etc.
+Eu estive nessa posição, e após a leitura, barrei a demissão porque entendia que até aquele momento que eu entrei, a empresa não tinha uma gestão que acompanhava diariamente as pessoas a nível individual, o que não daria o conceito de melhora contínua, e precisamos entender que temos pessoas lideradas que são movidas através do acompanhamento de perto, da pressão pela melhora contínua, etc.
 
-Por ter feito essa leitura, pedi para que não mandassem o amiguinho embora porque eu iria conseguir reverter a situação (entropia na equipa, mau desempenho, auto estima baixa e uma avaliação muito abaixo do esperado), e no decorrer dos meses, por mais que o âmbito de atuação do indivíduo tivesse mudado, algumas coisas ainda aconteciam, como a auto estima baixa, o que de facto é extremamente complicado de reverter. Infelizmente depois de um tempo, tive que aceitar a derrota de não ter conseguido reter esse talento e perdê-lo para o mercado e ai que entra o que eu chamo de **Processo humanizado de Desligamento.**. 
+Por ter feito essa leitura, pedi para que não mandassem o amiguinho embora porque eu iria conseguir reverter a situação (entropia na equipa, mau desempenho, auto estima baixa e uma avaliação muito abaixo do esperado), e no decorrer dos meses, por mais que o âmbito de atuação do indivíduo tivesse mudado, algumas coisas ainda aconteciam, como a auto estima baixa, o que de facto é extremamente complicado de reverter. Infelizmente depois de um tempo, tive que aceitar a derrota de não ter conseguido reter esse talento e infelizmente desligá-lo, e ai que entra o que eu chamo de **Processo humanizado de Desligamento.**. 
 
 ## Processo Humanizado de Desligamento
 

@@ -38,6 +38,10 @@ A ajuda com o cv pode ser importante para que o próprio indivíduo possa lembra
 
 Essa talvez seja a parte mais desafiadora, que é quando o indivíduo tem que cumprir aviso prévio na empresa, esteja próximo dessa pessoa, para que ela possa ser acolhida e que possa sair pela porta da frente, para que a experiência do desligamento não seja traumática e sim que possa ser algo humano, pois lidamos com humanos. Permita que o indivíduo no seu último dia, possa se despedir das pessoas de maneira individual, permita que ele possa ter acesso ao email para que ele possa se despedir de maneira formal e sob hipótese alguma, coloque um segurança atrás dele (já passei por isso, com pessoas indo até a saída da empresa para certificar que eu fui embora).
 
+- ***Melhor maneira de anunciar para os pares***
+
+Antes de mais nada, seja honesto com todos da equipa pela qual o indivíduo pertence, porém, de a abertura para que o próprio possa avisar a equipa em algum forum em comum sobre o que ocorreu, ou seja, se foi desligado, que possa abrir os motivos, e se pediu o desligamento, que também o possa fazer, caso ele queira. Obviamente que se os motivos do desligamento foram abstratos ou não condizem com a realidade, o ideal é que você enquanto líder, possa num outro fórum, deixar claro os motivos do desligamento, e claro, não esquecer de manter o processo de desligamento o mais humano possível.
+
 ## Acasos
 
 Obviamente que tudo descrito acima faz parte de um contexto onde existe claramente uma gestão muito ruim, porém há casos que infelizmenet acontecem que o indivíduo simplesmente é um câncer dentro da empresa ou da equipe e por conta disso, o desligamento é inevitável, porém tb é possível um processo humanizado para esses casos, mas, pouco provável que o indivíduo possa o aceitar (como por exemplo, ajuda no cv, assim como o dia a dia até o último dia pode ser bem complicado de gerir, etc.). 
